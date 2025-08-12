@@ -1,4 +1,4 @@
-package Daily_Coding_Practises;
+.package Daily_Coding_Practises;
 
 public class Binary_String_print_pac2 {
 	  public static void printBinaryString(int n, int lastPlace, String str) {
